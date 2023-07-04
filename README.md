@@ -1,3 +1,6 @@
+> **Warning**
+> The upstream is now revived, make sure to move there instead of staying on this plugin!
+
 # Magma
 
 For autocompletion, see [this plugin](https://github.com/lkhphuc/jupyter-kernel.nvim).
